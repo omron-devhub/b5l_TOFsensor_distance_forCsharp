@@ -1,0 +1,14 @@
+﻿#-----------------------------------------------------
+# Revision history (B5L_TOFSensorSampleGetResult_for-CSharp)
+#-----------------------------------------------------
+
+ver 1.0 (2020/04/24)
+    - First release
+ver 1.1 (2021/11/29)
+    - Add the following note to the Readme file
+      Note:This sample code is made for code reference.
+          The response data of "Get result" command can be output as CSV file,
+          if the "Output CSV" checkbox of GUI is checked after execute exe file,
+          (only for result acquisition format is "distancedata(polar coordinate)")
+          Acquisition format is set as "distancedata(polar coordinate)", after Connect button is clicked in GUI.
+
